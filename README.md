@@ -1,4 +1,4 @@
-# Useless-Scripts
+# Useless Scripts
 
 As the description says.
 
